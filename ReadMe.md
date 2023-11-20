@@ -11,9 +11,6 @@ Follow [this wikipeidia](https://en.wikipedia.org/wiki/Brainfuck) https://en.wik
 
 - Integer print : `_` - to print the integer value at the data pointer
 
-
-
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
