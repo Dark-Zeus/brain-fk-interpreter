@@ -35,4 +35,4 @@ To use the Brainf**k Interpreter, follow these steps:
 
 ## programming in BrainF**k
 
-Follow [this wikipeidia](https://en.wikipedia.org/wiki/Brainfuck)https://en.wikipedia.org/wiki/Brainfuck article
+Follow [this wikipeidia](https://en.wikipedia.org/wiki/Brainfuck) https://en.wikipedia.org/wiki/Brainfuck article
