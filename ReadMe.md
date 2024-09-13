@@ -2,8 +2,10 @@
 
 This repository contains a Brainf**k interpreter written in C++. Brainf**k is an esoteric programming language created in 1993 by Urban Müller. Notable for its extreme minimalism, the language consists of only eight simple commands, a data pointer and an instruction pointer.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## programming in BrainF**k
+## Programming in BrainF**k
 
 Follow [this wikipeidia](https://en.wikipedia.org/wiki/Brainfuck) https://en.wikipedia.org/wiki/Brainfuck article
 
